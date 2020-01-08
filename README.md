@@ -1,2 +1,2 @@
-# Computational-Geometry
-[Coursera] Computational Geometry by "Saint Petersburg State University"
+# Computational Geometry
+[Computational Geometry](https://www.coursera.org/learn/computational-geometry) by "Saint Petersburg State University"
